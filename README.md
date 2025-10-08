@@ -2,8 +2,8 @@
 
 完整源代码链接：https://github.com/kuangpenghao/CS336-Assignment1
 
-Lec1 Overleaf只读链接：https://sharelatex.cstcloud.cn/read/jgqrkkfjxqwc
+Lec1 Overleaf只读链接：https://cn.overleaf.com/read/pxgrjymcrnkd#a268fe
 
-Lec3 Overleaf只读链接：https://sharelatex.cstcloud.cn/read/rjgmkjnbmyps
+Lec3 Overleaf只读链接：https://cn.overleaf.com/read/cqgbnyxrnxpx#fde4f4
 
 Contributor: 23 CS 匡鹏昊
