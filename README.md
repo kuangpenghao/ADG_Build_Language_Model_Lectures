@@ -21,6 +21,7 @@
 ### 开源链接：讲座回放
 * Lec1讲座回放：https://www.bilibili.com/video/BV1EJsPzpEp8/?spm_id_from=333.1387.list.card_archive.click&vd_source=08a41c5edcbb3c6b47b413058d956b5e
 * Lec2讲座回放：https://www.bilibili.com/video/BV1WVs6zAEs5?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2206419-7v86w.1763882232417.107&vd_source=08a41c5edcbb3c6b47b413058d956b5e
+* Lec3讲座回放：https://www.bilibili.com/video/BV1nUUTBCEbB/?vd_source=08a41c5edcbb3c6b47b413058d956b5e
 
 
 该系列讲座取材自斯坦福大学同名课程《CS336:Language Modeling From Scratch》的Assignment1，并已获得该课程开课者：斯坦福大学Hashimoto教授授权。
